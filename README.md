@@ -14,4 +14,4 @@ $ npm run dev
 
 deployed [here](https://dashboard-app-nextjs-six.vercel.app/).
 
-for testing use admin@acme.com, admin
+for testing use user@nextmail.com, 123456
